@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Spring Demo Nico 2024
+  profiles:
+    active: application-hw1-config1
