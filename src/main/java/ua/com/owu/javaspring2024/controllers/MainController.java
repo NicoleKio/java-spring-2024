@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MainController {
 
-//    реалізувати запити
+//    реалізувати
 //    get /cars
 //    get /cars/{id}
 //    post /cars
